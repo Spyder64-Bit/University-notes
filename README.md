@@ -1,6 +1,6 @@
 # 📚 University Notes
 
-## Materie
+## Secondo Anno - Secondo Semestre
 - [Basi di Dati 2](./Basi-di-Dati-2)
 - [Progettazione di Algoritmi](./Progettazione-di-Algoritmi)
 - [Reti di Elaboratori](./Reti-di-Elaboratori)
